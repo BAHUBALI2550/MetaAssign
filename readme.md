@@ -23,8 +23,8 @@ npx hardhat run scripts/deploy.js --network sepolia
 ## Testing
 To run the tests for your smart contracts, use the following command:
 
-first change test file to .mjs
-secondly change hardhat.config.js to hardhat.config.cjs
+first change test file to .mjs, 
+secondly change hardhat.config.js to hardhat.config.cjs, 
 add "type": "module" in package.json
 
 ```
